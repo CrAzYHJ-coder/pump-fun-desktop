@@ -1,0 +1,7 @@
+# Default behavior
+src/*.ts linguist-detectable
+
+public/index.html linguist-vendored 
+
+*.min.css linguist-generated
+*.woff2 binary
